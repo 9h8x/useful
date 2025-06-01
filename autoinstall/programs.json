@@ -1,0 +1,8 @@
+[
+    {
+        "https://dl.google.com/chrome/install/chrome_installer.exe": "/silent /install"
+    },
+    {
+        "https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=es-AR": "/silent"
+    },
+]
